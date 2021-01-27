@@ -1,0 +1,174 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  }
+
+p {
+  width: 30%;
+  }
+
+a {
+  display: inline-block;
+  font-size: 1rem;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #3b5360;
+  margin: 20px 30px;
+  }
+
+span {
+  text-decoration: underline;
+
+  }
+
+.contact {
+  background-color: #bbf1fa;
+  }
+
+.top2 {
+
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+.a2 {
+  top: 30px;
+  left: 20px;
+  font-size: 1rem;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #3b5360;
+  margin: 20px 30px;
+  }
+
+.last {
+  margin-left: 460px;
+  margin-top: 30px;
+  }
+
+.space1 {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 30%;
+  color: #EAF6F6;
+  margin-top: 200px;
+  }
+
+.space2 {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 30%;
+  color: #EAF6F6;
+  margin-top: 500px;
+  }
+
+.ican1 {
+  font-size: 2rem;
+  font-family: 'Pacifico', cursive;
+  color: #4e3d53;
+  margin-top: 110px;
+  margin-bottom: 50px;
+  position: absolute;
+  left: 500px;
+  }
+
+.ican2 {
+  color: #4e3d53;
+  font-size: 2rem;
+  font-family: 'Kaushan Script', cursive;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  position: absolute;
+  left: 500px;
+  }
+
+.ican {
+  margin-top: 70px;
+  font-size: 2rem;
+  color: #4e3d53;
+  font-family: 'Pacifico', cursive;
+  }
+
+.heading {
+  background-color: #F8F1F1;
+
+  position: relative;
+
+  }
+
+.footer {
+    background-color: #F8F1F1;
+    height: 200px;
+    position: relative;
+    text-align: center;
+    margin-top: 150px;
+    display: block;
+    }
+
+.profile {
+  width: 80px;
+  position: absolute;
+  top: 10px;
+  left: 150px;
+  }
+
+.part1 {
+  height: 300px;
+  width: 550px;
+  margin-top: 200px;
+  margin-left: 50px;
+  position: relative;
+  background-color: #bbf1fa;
+  }
+
+.text1 {
+font-family: 'Kaushan Script', cursive;
+  position: absolute;
+  top: 70px;
+  font-size: 18px;
+  left: 230px;
+  width: 250px;
+  text-align: right;
+  line-height: 1.5;
+  }
+
+.me-img {
+  top: 50px;
+  left: 690px;
+
+  position: absolute;
+  width: 200px;
+  }
+
+.part2 {
+  margin-top: 200px;
+  position: absolute;
+  top: 800px;
+  left: 600px;
+  height: 300px;
+  width: 550px;
+  background-color: #f8dc81;
+  }
+
+.me2-img {
+  top: 50px;
+  right: 690px;
+  position: absolute;
+  width: 200px;
+  }
+
+.text2 {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 18px;
+  position: absolute;
+  top: 70px;
+  left: 80px;
+  width: 250px;
+  text-align: left;
+  line-height: 1.5;
+  }
